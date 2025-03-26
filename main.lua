@@ -82,4 +82,4 @@ end
 --> either loadstring or just the pasted script here 
 --> btw dont use tbo its skidded lmao 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/cool5013/TBO/refs/heads/main/paid"))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-The-Strongest-Battleground-Dio-Moveset-30626"))()
